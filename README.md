@@ -27,7 +27,7 @@ Step 2: Start Local Blockchain
 Open the first terminal and start the local Ethereum blockchain using Hardhat:
 npx hardhat node
 
-Step 3: Deploy Smart Contract
+### Step 3: Deploy Smart Contract
 In the second terminal, deploy the smart contract to the local network:
 
 npx hardhat run --network localhost scripts/deploy.js
